@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @jugosoft
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
-<!---
-jugosoft/jugosoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I Am Jugosoft! Ich liebe meine Frau :-) !&center=true&size=30">
+  </a>
+</h1>
+
+- 👀 I’m interested in Fick Wasser🚱
+- 
